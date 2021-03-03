@@ -30,5 +30,5 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 
-![](https://github.com/PineAppleGrits/readme/blob/main/overview.svg)
-![](https://github.com/PineAppleGrits/readme/blob/main/languages.svg)
+![](https://github.com/PineAppleGrits/PineAppleGrits/blob/main/overview.svg)
+![](https://github.com/PineAppleGrits/PineAppleGrits/blob/main/languages.svg)

@@ -2,9 +2,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;Discord bot verified developer.\
+💡 &nbsp;Discord bot verified developer / Javascript dev.\
 🎓 &nbsp;I'm currently studying Computer Science.\
-✍️ &nbsp;In my free time, i like to play videogames.\
+✍️ &nbsp;In my free time, i like to play videogames.
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;

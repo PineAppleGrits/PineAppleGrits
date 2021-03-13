@@ -4,6 +4,7 @@
 
 💡 &nbsp;Discord bot verified developer / Javascript dev.\
 🎓 &nbsp;I'm currently studying Computer Science.\
+🔨 &nbsp;Working mostly in private repositories.\
 ✍️ &nbsp;In my free time, i like to play videogames.
 ### 🛠 &nbsp;Tech Stack
 

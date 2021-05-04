@@ -24,6 +24,3 @@
 ![DiscordAPI](https://img.shields.io/badge/-DiscordAPI-05122A?style=flat&logo=discord)&nbsp;
 ![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
-
-![](https://github.com/PineAppleGrits/stats/tree/master/generated/languages.svg)

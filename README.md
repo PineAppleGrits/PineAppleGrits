@@ -26,4 +26,4 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-![](https://github.com/PineAppleGrits/PineAppleGrits/blob/main/languages.svg)
+![](https://github.com/PineAppleGrits/stats/blob/generated/languages.svg)

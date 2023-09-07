@@ -23,4 +23,5 @@
 ![DiscordAPI](https://img.shields.io/badge/-DiscordAPI-05122A?style=flat&logo=discord)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 
-![](https://github.com/PineAppleGrits/stats/blob/master/generated/languages.svg)
+![](https://github.com/PineAppleGrits/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/PineAppleGrits/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)

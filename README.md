@@ -35,8 +35,7 @@
 <a href="https://code.visualstudio.com/">![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)</a>    
 <a href="https://mariadb.org/">![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)</a>
 <a href="https://www.mongodb.com">![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)</a>
-<a href="https://www.mysql.com/">![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)</a>
-#### 
+<a href="https://www.mysql.com/">![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)</a>\
 ![](https://github.com/PineAppleGrits/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://github.com/PineAppleGrits/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 

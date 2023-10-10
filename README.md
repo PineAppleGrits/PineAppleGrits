@@ -1,6 +1,18 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Grits -->
-<img src="https://www.ginos.codes/logo.jpg" width="10%" height="10%" ></img>
-#### 
+<h1>
+<a href="https://ginos.codes" target="_blank"><img src="https://www.ginos.codes/logo.jpg" width="5%" height="5%"></img></a>
+  <span>I'm Gino</span>
+</h1>
+<i>Passionate Junior Developer with a strong foundation in software development and systems administration. My experience encompasses a range of roles within the industry, where I have demonstrated my ability to create innovative solutions and effectively optimize systems.</i>
+<h3 id="work">Currently working on</h3>
+<ul styles="color: white;">
+  <li>📄 Optimized Paper forks at <a href="https://github.com/DisasterMC">@DisasterMC</a></li>
+  <li>⛏️ Minecraft plugin development</li>
+  <li>📱 <a href="https://pointwall.com.ar">@PointWall</a> app</li>
+  <li>👨🏻‍💻 Ultimate Staff plugin</li>  
+</ul>
+
+## My Stack
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/Javascript">![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)</a>
@@ -27,3 +39,5 @@
 #### 
 ![](https://github.com/PineAppleGrits/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://github.com/PineAppleGrits/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+
+## Have an idea to build? Reach me at hello@ginos.codes

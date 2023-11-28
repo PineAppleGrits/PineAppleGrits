@@ -9,6 +9,7 @@
   <li>📄 Optimized Paper forks at <a href="https://github.com/DisasterMC">@DisasterMC</a></li>
   <li>⛏️ Minecraft plugin development</li>
   <li>📱 <a href="https://pointwall.com.ar">@PointWall</a> app</li>
+  <li>📦️  <a href="https://github.com/PineAppleGrits/tebex.js">Tebex.js</a> SDK for NodeJS</li>
   <li>👨🏻‍💻 Ultimate Staff plugin</li>  
 </ul>
 

@@ -3,7 +3,7 @@
 <a href="https://ginos.codes" target="_blank"><img src="https://www.ginos.codes/logo.jpg" width="5%" height="5%"></img></a>
   <span>I'm Gino</span>
 </h1>
-<i>Passionate Junior Developer with a strong foundation in software development and systems administration. My experience encompasses a range of roles within the industry, where I have demonstrated my ability to create innovative solutions and effectively optimize systems.</i>
+<i>Passionate Developer with a strong foundation in software development and systems administration. My experience encompasses a range of roles within the industry, where I have demonstrated my ability to create innovative solutions and effectively optimize systems.</i>
 <h3 id="work">Currently working on</h3>
 <ul styles="color: white;">
   <li>📄 Optimized Paper forks at <a href="https://github.com/DisasterMC">@DisasterMC</a></li>

@@ -6,7 +6,8 @@
 <i>Passionate Developer with a strong foundation in software development and systems administration. My experience encompasses a range of roles within the industry, where I have demonstrated my ability to create innovative solutions and effectively optimize systems.</i>
 <h3 id="work">Currently working on</h3>
 <ul styles="color: white;">
-  <li>📄 Optimized Paper forks at <a href="https://github.com/DisasterMC">@DisasterMC</a></li>
+  <li>🎵  <a href="https://portalmusicos.com">PortalMusicos</a> Find your next band.</li>
+  <li>📄 Optimizing Paper forks at <a href="https://github.com/DisasterMC">@DisasterMC</a></li>
   <li>⛏️ Minecraft plugin development</li>
   <li>📱 <a href="https://pointwall.com.ar">@PointWall</a> app</li>
   <li>📦️  <a href="https://github.com/PineAppleGrits/tebex.js">Tebex.js</a> SDK for NodeJS</li>

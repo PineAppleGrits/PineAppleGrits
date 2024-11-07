@@ -1,6 +1,6 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Grits -->
 <h1>
-<a href="https://ginos.codes" target="_blank"><img src="https://www.ginos.codes/logo.jpg" width="5%" height="5%"></img></a>
+<a href="https://gino.com.ar" target="_blank"><img src="https://www.gino.com.ar/logo.jpg" width="5%" height="5%"></img></a>
   <span>I'm Gino</span>
 </h1>
 <i>Passionate Developer with a strong foundation in software development and systems administration. My experience encompasses a range of roles within the industry, where I have demonstrated my ability to create innovative solutions and effectively optimize systems.</i>
@@ -40,5 +40,3 @@
 <a href="https://www.mysql.com/">![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)</a>\
 ![](https://github.com/PineAppleGrits/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://github.com/PineAppleGrits/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
-
-## Have an idea to build? Reach me at hello@ginos.codes
